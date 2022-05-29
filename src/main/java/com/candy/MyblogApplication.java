@@ -1,4 +1,4 @@
-package com.candy.myblog;
+package com.candy;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
